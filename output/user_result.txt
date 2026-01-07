@@ -1,20 +1,18 @@
 🕘️更新时间,#genre#
-2026-01-05 18:31:55,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+2026-01-07 18:31:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-5,http://39.152.103.17:8089/tsfile/live/1004_1.m3u8$订阅源
 CCTV-6,http://39.152.103.17:8089/tsfile/live/1005_1.m3u8$订阅源
-CCTV-7,http://27.41.245.32:801/hls/7/index.m3u8$订阅源
 CCTV-7,http://39.152.103.17:8089/tsfile/live/1006_1.m3u8$订阅源
-CCTV-8,http://27.41.245.32:801/hls/8/index.m3u8$订阅源
 CCTV-8,http://39.152.103.17:8089/tsfile/live/1007_1.m3u8$订阅源
-CCTV-9,http://27.41.245.32:801/hls/9/index.m3u8$订阅源
+CCTV-8,http://27.41.245.32:801/hls/8/index.m3u8$订阅源
 CCTV-9,http://39.152.103.17:8089/tsfile/live/1008_1.m3u8$订阅源
+CCTV-9,http://27.41.245.32:801/hls/9/index.m3u8$订阅源
 CCTV-11,http://39.152.103.17:8089/tsfile/live/1010_1.m3u8$订阅源
 CCTV-12,http://39.152.103.17:8089/tsfile/live/1011_1.m3u8$订阅源
-CCTV-14,http://27.41.245.32:801/hls/14/index.m3u8$订阅源
 CCTV-14,http://39.152.103.17:8089/tsfile/live/1013_1.m3u8$订阅源
+CCTV-14,http://27.41.245.32:801/hls/14/index.m3u8$订阅源
 CCTV-15,http://39.152.103.17:8089/tsfile/live/1014_1.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -28,11 +26,10 @@ CCTV-15,http://39.152.103.17:8089/tsfile/live/1014_1.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8$订阅源
-黑龙江卫视,http://btjg.net:809/hls/39/index.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8$订阅源
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://39.152.103.17:8089/tsfile/live/1036_1.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
